@@ -1,0 +1,4 @@
+config Propeties
+  let Username = "Tomek K.";
+  let Age = 20;
+end
